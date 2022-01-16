@@ -1,0 +1,29 @@
+article div h4{
+    color: greenyellow;
+}
+.grup-1, .grup-2, .grup-3 {
+    display: flex;
+    justify-content: center;
+}
+.grup-1 div, .grup-2 div, .grup-3 div {
+    display: inline;
+    border: 3px solid black;
+    border-style: solid solid solid solid;
+    max-width: 370px;
+    background: rgba(0, 0, 0, 0.4);
+}
+.grup-1 div:hover, .grup-2 div:hover, .grup-3 div:hover {
+    transform: scale(1.05);
+}
+.grup-1 div img, .grup-2 div img, .grup-3 div img {
+    width: 100%;
+    max-width: 370px;
+}
+article div a {
+    text-decoration: none;
+    color: rgb(79, 155, 255);
+}
+article div a:hover {
+    background-color: rgb(0, 110, 255);
+    color: #dddddd;
+}

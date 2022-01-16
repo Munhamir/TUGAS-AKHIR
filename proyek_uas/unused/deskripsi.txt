@@ -1,0 +1,57 @@
+ryzen:
+Di ajang Computex 2019, AMD secara resmi mengumumkan jajaran keluarga prosesor AMD Ryzen 3000 Series berbasis arsitektur Zen 2 dan fabrikasi 7nm.
+AMD Ryzen 7 3700X memiliki base clock 3,6Ghz dan boost clock 4,4GHz, serta TDP65W.
+Embel huruf "X" di akhir nama memang masih mengindikasikan prosesor ini bisa mendukung overclocking terutama menggunakan software AMD Ryzen Master terbaru.
+
+iphone x:
+Produk iPhone terbaru dari Apple memiliki keunggulan yang menjadi tolok ukur baru, baik bagi konsumen maupun produsen.
+Di 2021 ini, iPhone X tentunya masih sangat menarik untuk dipertimbangkan.
+Selain telah mengusung layar dengan bezel tipis, spesifikasinya yang masih tinggi, dan harga iPhone X, tentunya, sudah lebih murah dari sebelumnya.
+Selain unggul berkat inovasi desainnya, kelebihan iPhone X berhasil hadir sebagai pembanding saat smartphone dari merek lain dirilis.
+
+intel:
+Oktober 2017, Intel merilis jajaran prosesor desktop mereka, Core i 8th Gen, dengan arsitektur Coffee Lake.
+Jajaran prosesor desktop baru ini menjadi penerus dari Core i 7th Gen, dengan arsitektur Kaby Lake.
+Core i5 8th Gen. ini merupakan prosesor kelas menengah yang sangat menarik dari Intel.
+Core i5-8600K ini hadir sebagai sebuah prosesor hexa core, menawarkan performa dual core lebih banyak dari generasi sebelumnya.
+Kode “K” di prosesor ini kembali menandakan bahwa prosesor ini mengusung <i>unlocked multiplier</i>.
+
+samsung:
+Awal Maret 2020 Samsung menghadirkan smartphone flagshipnya di jajaran keluarga seri S yakni Galaxy S20 series yang mengusung sejumlah fitur unggulan, terutama pada kameranya.
+Samsung menargetkan Galaxy S20 Ultra untuk mereka yang ingin melakukan hal lebih banyak dari smartphone yang mereka gunakan.
+Sesuai namanya, smartphone ini serba lebih. Lebih besar, kamera lebih banyak, resolusi lebih baik, lebih maksimal deh.
+
+macbook pro:
+Apple terus melakukan pembaruan, tak hanya pada smartphone mereka tiap tahunnya, namun juga lini laptop MacBook mereka.
+Di tahun 2020, Apple telah merilis MacBook Pro terbaru. Banyak yang memberinya nama MacBook Pro 2020.
+Tom Boger, Senior Director of Mac & iPad Product Marketing, Apple mengatakan jika perangkat ini cocok baik untuk mahasiswa, developer maupun profesional kreatif.
+MacBook Pro 2020 ini diklaim mampu hadirkan performa tinggi, layar Retina, serta baterai yang tahan seharian.
+
+geforce rtx 2080:
+Nvidia GeForce RTX 2080 mungkin tidak lagi menjadi GPU unggulan, sebab RTX 3080 baru saja diumumkan di acara Nvidia 1 September 2020.
+Meski begitu, RTX 2080 masih menjadi salah satu kartu grafis tercepat saat ini, khususnya di lini RTX.
+Mengacu kepada informasi yang dirilis NVIDIA saat peluncuran, GeForce RTX 2080 ini hadir dengan Boost Clock hingga 1710 MHz dan Base CLlck 1515MHz.
+
+adobe cc 2017:
+Adobe CC 2017 diumumkan pada 2016, termasuk 15 aplikasi desktop dengan fitur baru yang ditingkatkan ditambah kemajuan besar lainnya.
+Meskipun pihak Adobe telah merilis versi diatasnya, ternyata pengguna Adobe CC 2017 masih cukup banyak peminatnya dan akan bertambah setiap tahunnya.
+
+rasperry pi:
+Raspberry Pi, sering disingkat dengan nama Raspi, adalah komputer papan tunggal (<i>single-board computer</i> atau SBC).
+Dengan hanya berukuran kartu kredit, Raspberry pi dapat digunakan untuk menjalankan program perkantoran, permainan komputer, dan sebagai pemutar media hingga video beresolusi tinggi.
+
+arduino uno:
+Arduino Uno adalah papan microcontroller berbasis ATMega328P.
+"Uno" berarti satu dalam bahasa Itali dan hal itu untuk menandai perilisan perangkat lunak dari Arduino versi pertama (IDE 1.0)
+Arduino Uno sangat cocok untuk mereka yang baru mencoba pemrograman atau proyek elektronika.
+
+// var cetak="<?php
+//     echo "Nama Lengkap: ".$_POST["nama_lengkap"];
+//     echo "Alamat: ".$_POST["alamat"];
+//     echo "Email: ".$_POST["email"];
+//     echo "Nama Barang: ".$_GET["fname"];
+//     echo "Jumlah: ".$_GET["jumlah"];
+//     echo "Total Harga: ".$_POST["harga"];
+//     echo "Pin Pembayaran: "(mt_rand(999999999,9999999999));
+// ?>"
+// a1 = cetak;

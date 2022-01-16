@@ -1,0 +1,33 @@
+article div{
+    min-height: 460px;
+    border: black solid 3px;
+    background: rgba(0, 0, 0, 0.4);
+}
+article img {
+    width: 50%;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    max-width: 571px;
+}
+article h3{
+    color: greenyellow;
+}
+article a{
+    border: solid 3px black;
+    text-decoration: none;
+    padding: 5px 8px;
+    color: white;
+    
+}
+article a:hover{
+    background-color: white;
+    color: rgb(0, 110, 255);
+}
+article form{
+    border: 3px solid black;
+    padding: 6px;
+    background: rgba(0, 0, 0, 0.4);
+    margin-left: 600px;
+    max-width: 360px;
+}
